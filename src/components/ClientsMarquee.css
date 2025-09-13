@@ -1,0 +1,111 @@
+.clients {
+  position: relative;
+  background: transparent;
+  padding: 3rem 0;
+  margin-top: -210px;
+}
+
+.clients::before,
+.clients::after {
+  content: '';
+  position: absolute;
+  top: 120px;
+  width: 120px;
+  height: 40%;
+  background: #000;
+  z-index: 2;
+}
+
+.clients::before {
+  left: 0;
+
+    top: 29%;
+    height: 27vh;
+
+}
+
+.clients::after {
+  right: 0;
+    top: 29%;
+    height: 27vh;
+}
+
+.section-subtitle {
+  color: #64748b;
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+/* Converted to a simple flex grid layout */
+.client-logos-marquee {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background: transparent;
+  padding: 1rem 0;
+}
+
+.marquee-track {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 6rem;
+  width: 100%;
+  /* Disable scrolling */
+}
+
+.client-logo-item {
+  background: #000;
+  border: 2px solid #fff;
+  border-radius: 12px;
+  padding: 0.3rem 3rem;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  
+  font-size: 1.1rem;
+  box-shadow: 0 4px 16px rgba(255, 255, 255, 0.1);
+  transition: all 0.3s ease;
+  min-width: 140px;
+ 
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  color: #fff;
+}
+
+.client-logo-item img {
+  max-height: 70px;
+  max-width: 120px;
+  display: block;
+}
+
+.client-logo-item:hover {
+  background: white;
+  border-color: #2563eb;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(37, 99, 235, 0.3);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .client-logo-item {
+    padding: 0.8rem 1.5rem;
+    font-size: 1rem;
+    min-width: 120px;
+  }
+}
+
+@media (max-width: 480px) {
+  .client-logo-item {
+    padding: 0.6rem 1.2rem;
+    font-size: 0.9rem;
+    min-width: 100px;
+  }
+    .clients::before,
+  .clients::after {
+    display: none;
+    content: none;
+  }
+}
