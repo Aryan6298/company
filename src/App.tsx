@@ -25,7 +25,7 @@ function App() {
   }, []);
 
   return (
-    <Router>
+    <Router  basename="/company">
       <div style={styles.overlay1}>
         <CustomCursor />
         <ScrollToTop/>
