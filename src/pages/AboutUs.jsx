@@ -41,10 +41,10 @@ const AboutUs = () => {
             {/* Text Content */}
             <div className="col-12 col-md-6">
               <h3 style={styles.subheading}>
-                Welcome to KAP Web Developer – A Professional Web Development Agency
+                Welcome to KAP Developer – A Professional Web Development Agency
               </h3>
               <p style={styles.paragraph}>
-                KAP Web Developer is a trusted and registered web development company based in India. We
+                KAP Developer is a trusted and registered web development company based in India. We
                 specialize in building professional websites that are visually engaging, functional,
                 and tailored to deliver meaningful results for our clients. Whether it's
                 multi-functional web portals or elegant business sites, we craft every solution with

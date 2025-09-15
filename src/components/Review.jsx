@@ -5,7 +5,7 @@ import { FaQuoteLeft } from 'react-icons/fa';
 
 const testimonials = [
   {
-    quote: "  [{KAP Web Developer}] transformed our outdated site into a sleek, modern platform that boosted our sales. Truly impressed with their speed and professionalism.",
+    quote: "  [{KAP Developer}] transformed our outdated site into a sleek, modern platform that boosted our sales. Truly impressed with their speed and professionalism.",
     name: "Neha Verma",
     role: "E-commerce Business Owner",
     initials: "NV"

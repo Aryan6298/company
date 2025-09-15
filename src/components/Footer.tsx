@@ -200,7 +200,7 @@ const Footer = () => (
 
       <div className="footer-bottom">
         <span>
-          © {new Date().getFullYear()} KAP Web Developer. Built with precision by AJ.
+          © {new Date().getFullYear()} KAP Developer. Built with precision by AJ.
         </span>
       </div>
     </div>

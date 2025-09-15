@@ -29,14 +29,14 @@ const PrivacyPolicy = () => {
       <div className="section">
         <h2>Privacy Policy</h2>
         <p>
-          At KAP Web Developer, accessible from <a href="https://kapwebdeveloper.com/" target="_blank" rel="noopener noreferrer">https://kapwebdeveloper.com/</a>, one of our main priorities is the privacy of our visitors.
-          This Privacy Policy document outlines the types of information that is collected and recorded by KAP Web Developer and how we use it.
+          At KAP Developer, accessible from <a href="https://kapwebdeveloper.com/" target="_blank" rel="noopener noreferrer">https://kapwebdeveloper.com/</a>, one of our main priorities is the privacy of our visitors.
+          This Privacy Policy document outlines the types of information that is collected and recorded by KAP Developer and how we use it.
         </p>
         <p>
           If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
         </p>
         <p>
-          This policy applies only to our online activities and is valid for visitors to our website with regards to the information they share and/or collect in KAP Web Developer.
+          This policy applies only to our online activities and is valid for visitors to our website with regards to the information they share and/or collect in KAP Developer.
         </p>
       </div>
 
@@ -75,7 +75,7 @@ const PrivacyPolicy = () => {
       <div className="section">
         <h4>Log Files</h4>
         <p>
-          KAP Web Developer follows a standard procedure of using log files. These files log visitors when they visit websites.
+          KAP Developer follows a standard procedure of using log files. These files log visitors when they visit websites.
           All hosting companies do this as part of hosting services’ analytics.
         </p>
         <p>
@@ -98,13 +98,13 @@ const PrivacyPolicy = () => {
       <div className="section">
         <h4>Advertising Partners Privacy Policies</h4>
         <p>
-          You may consult this list to find the Privacy Policy for each of the advertising partners of KAP Web Developer.
+          You may consult this list to find the Privacy Policy for each of the advertising partners of KAP Developer.
         </p>
         <p>
-          Third-party ad servers or networks use technologies like cookies, JavaScript, or web beacons in their ads and links appearing on KAP Web Developer. These technologies automatically receive your IP address.
+          Third-party ad servers or networks use technologies like cookies, JavaScript, or web beacons in their ads and links appearing on KAP Developer. These technologies automatically receive your IP address.
         </p>
         <p>
-          KAP Web Developer has no access to or control over these cookies used by third-party advertisers.
+          KAP Developer has no access to or control over these cookies used by third-party advertisers.
         </p>
       </div>
 
@@ -154,7 +154,7 @@ const PrivacyPolicy = () => {
           Protecting children’s privacy online is important. We encourage parents and guardians to observe and guide their children’s online activity.
         </p>
         <p>
-          KAP Web Developer does not knowingly collect any personal identifiable information from children under 13.
+          KAP Developer does not knowingly collect any personal identifiable information from children under 13.
           If your child has provided such information, please contact us immediately and we will do our best to remove it.
         </p>
       </div>

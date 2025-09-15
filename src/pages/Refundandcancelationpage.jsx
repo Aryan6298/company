@@ -36,7 +36,7 @@ const RefundAndCancellation = () => {
         <h2>Refund & Cancellation Policy</h2>
         <p>
           Our refund policy is designed to make it easy for our clients to understand. 
-          KAP Web Developer will deliver a refund under the circumstances outlined below. 
+          KAP Developer will deliver a refund under the circumstances outlined below. 
           Please read the policies carefully.
         </p>
       </div>
@@ -52,7 +52,7 @@ const RefundAndCancellation = () => {
       <div className="section">
         <h4>Eligibility for Refund</h4>
         <p>
-          Every project at KAP Web Developer is important to us and we handle them with professionalism. 
+          Every project at KAP Developer is important to us and we handle them with professionalism. 
           We aim to deliver desired results on time. However, if a client is not satisfied or changes their plan, 
           the following refund policy will apply:
         </p>
@@ -85,7 +85,7 @@ const RefundAndCancellation = () => {
       <div className="section">
         <h4>Change in Policy</h4>
         <p>
-          KAP Web Developer reserves the right to change this policy at any time without prior notice. 
+          KAP Developer reserves the right to change this policy at any time without prior notice. 
           Clients (existing and new) are expected to agree with the updated policy by continuing to use our services.
         </p>
       </div>

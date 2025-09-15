@@ -16,7 +16,7 @@ const PricingPlans = () => {
         <h2 className="fw-bold text-info">Plans & Pricing</h2>
         <p className="text-light mx-auto" style={{ maxWidth: "800px" }}>
           We are among India’s best web solution companies committed to offering full ROI-driven customized web services
-          at affordable prices. Due to its excellent e-commerce website and graphics designs, KAP Web developer is one of
+          at affordable prices. Due to its excellent e-commerce website and graphics designs, KAP developer is one of
           the top web development companies in India.
         </p>
       </div>
